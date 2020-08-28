@@ -8,4 +8,4 @@ Classic markup: :wink: :joy: :cry: :angel: :heart: :beers: :laughing: :yum:
 
 Shortcuts (emoticons): :-) :-( 8-) ;)
 
-![](../assets/proposals_bg.png)
+![](assets/proposals_bg.png)
