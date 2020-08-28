@@ -7,3 +7,5 @@ https://t.me/volentix_announcements/94
 Classic markup: :wink: :joy: :cry: :angel: :heart: :beers: :laughing: :yum:
 
 Shortcuts (emoticons): :-) :-( 8-) ;)
+
+![](../assets/proposals_bg.png)
