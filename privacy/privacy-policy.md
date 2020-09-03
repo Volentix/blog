@@ -15,40 +15,40 @@ By providing us with your Personal Information, you consent for us to collect, h
 ### INFORMATION COLLECTED AUTOMATICALLY
 When you use our Website or any of the services available on our Website, we automatically collect information from your devices. By using our Website or any of its services, you consent for us to collect, hold, retain, use, protect, and disclose automatically-collected information in accordance with this Privacy Policy. We may automatically collect some or all of the following information, as well as other information:
 
-Server Log Information. This information may include your login details, the dates and times of your visits, the pages you view, your IP addresses, the amounts of time you spend during your visits to our Website, and the identities of the websites you visit before and after you visit our Website.
-Device Information. This information may include details about any device you use to access our Website, including the hardware model, the type and version of your operating system, the web browser you use, and other device identifiers.  
-Telemetry Information. If you use any of our open source software, we may collect information about your bandwidth, upload and download speeds, the amount of free and used storage space on your devices, and other data concerning your devices.
-Usage Information. This information may include data concerning files you upload for storage and data concerning authentication of communications.  
-Cookies and Other Data Collection Technologies. We and our service providers use data collection technologies to collect information when you interact with our Website, including cookies and web beacons. Cookies are small data files that are stored on your devices when you visit our Website. Cookies enable us to collect information about your device identifiers, IP addresses, web browsers, pages and features you view, time you spend on pages and features you view, digital applications you use, and links you access. Web beacons are graphic images used to monitor your activity when you visit our Website or email us. Web beacons are often used in combination with cookies.
+- Server Log Information. This information may include your login details, the dates and times of your visits, the pages you view, your IP addresses, the amounts of time you spend during your visits to our Website, and the identities of the websites you visit before and after you visit our Website.
+- Device Information. This information may include details about any device you use to access our Website, including the hardware model, the type and version of your operating system, the web browser you use, and other device identifiers.  
+- Telemetry Information. If you use any of our open source software, we may collect information about your bandwidth, upload and download speeds, the amount of free and used storage space on your devices, and other data concerning your devices.
+- Usage Information. This information may include data concerning files you upload for storage and data concerning authentication of communications.  
+- Cookies and Other Data Collection Technologies. We and our service providers use data collection technologies to collect information when you interact with our Website, including cookies and web beacons. Cookies are small data files that are stored on your devices when you visit our Website. Cookies enable us to collect information about your device identifiers, IP addresses, web browsers, pages and features you view, time you spend on pages and features you view, digital applications you use, and links you access. Web beacons are graphic images used to monitor your activity when you visit our Website or email us. Web beacons are often used in combination with cookies.
 
 ### USE OF COLLECTED INFORMATION
 Generally, we may use Collected Information for purposes of some or all of the following:
 
-providing, maintaining, delivering, and improving our Website and the products and services we provide through our Website;
-understanding your online activities and analyzing the popularity and usefulness of content we provide to you and other users of our Website;
-fulfilling regulatory and other legal requirements;
-providing you with the information, products, and services you request;
-answering your inquiries and responding to communications from you;
-developing new products and services;
-sending you notices;  
-communicating with you about news, products, services, events, and other information we think may be of interest or use to you;
-matching your Information with employment opportunities to assist us in case you contact us about possible employment;  
-monitoring and analyzing trends, usage, and activities in connection with our Website;
-detecting, investigating, and preventing fraudulent transactions and otherwise unauthorized or illegal activities;  
-protecting our rights and property and facilitating compliance with our policies and applicable law;
+- providing, maintaining, delivering, and improving our Website and the products and services we -provide through our Website;
+- understanding your online activities and analyzing the popularity and usefulness of content we provide to you and other users of our Website;
+- fulfilling regulatory and other legal requirements;
+- providing you with the information, products, and services you request;
+- answering your inquiries and responding to communications from you;
+- developing new products and services;
+- sending you notices;  
+- communicating with you about news, products, services, events, and other information we think may be of interest or use to you;
+- matching your Information with employment opportunities to assist us in case you contact us about possible employment;  
+- monitoring and analyzing trends, usage, and activities in connection with our Website;
+- detecting, investigating, and preventing fraudulent transactions and otherwise unauthorized or illegal activities;  
+- protecting our rights and property and facilitating compliance with our policies and applicable law;
 connecting and combining the Collected Information with other information; and
 carrying out any other purpose we reasonably expect to be legitimate.
 
 ### SHARING OF COLLECTED INFORMATION
 We may share Collected Information in the some or all of the following ways:
 
-with your consent or at your instruction;
-with any current or future entitles related to us;
-with service providers or other third parties with which we have relationships;
-publicly, in the case of information you choose to display publicly, such as your username or any content you post when you use interactive areas of our Website such as our online forums;
+- with your consent or at your instruction;
+- with any current or future entitles related to us;
+- with service providers or other third parties with which we have relationships;
+- publicly, in the case of information you choose to display publicly, such as your username or any content you post when you use interactive areas of our Website such as our online forums;
 in connection with any financing, sale, transfer, merger, acquisition, assignment, or other transaction;  
-in response to requests for information if we believe, in our sole and absolute discretion, that disclosure is in accordance with, or required by, any of our policies or any applicable law;
-if we believe, in our sole and absolute discretion, your actions are inconsistent with our agreements or policies, or if we believe, in our sole and absolute discretion, sharing of information is necessary to protect the rights, property, or safety of any of us or others; and
+- in response to requests for information if we believe, in our sole and absolute discretion, that disclosure is in accordance with, or required by, any of our policies or any applicable law;
+- if we believe, in our sole and absolute discretion, your actions are inconsistent with our agreements or policies, or if we believe, in our sole and absolute discretion, sharing of information - is necessary to protect the rights, property, or safety of any of us or others; and
 carrying out any other purpose or reason we reasonably expect to be legitimate.
 
 ### SOCIAL SHARING FEATURES
