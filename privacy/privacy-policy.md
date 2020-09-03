@@ -68,4 +68,4 @@ You may also opt out of receiving promotional communications from us at any time
 ### CONTACT US
 If you have any questions about this Privacy Policy, please contact us at info@volentix.io.  
 
-Dated: December 21, 2018
+Dated: December 12, 2019
