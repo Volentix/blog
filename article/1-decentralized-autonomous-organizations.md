@@ -1,0 +1,5 @@
+# Decentralized Autonomous Organizations
+> May 24, 2018
+![](https://miro.medium.com/max/700/1*ziVkOx4Db-kbB6HPa34Jfg.jpeg)
+Ask any Business major over the course of the last few decades what the most common organization types are, and they will tell you about the Sole Proprietorship, the Partnership, and the Corporation. Today may be a little premature but if AI and blockchain entrepreneurs have their way, it will soon be time to say move over to these traditional forms of business because there are new kids in town, not the least of which is the Decentralized Autonomous Organization (DAO).
+As I write today, I find it interesting to observe the Washington Post’s relatively new slogan is “Democracy Dies in Darkness,” because it reminds me of the light that is brought to decentralized autonomous organizations. …

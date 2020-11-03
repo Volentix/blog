@@ -1,0 +1,5 @@
+# An EOS-based Digital Wallet from Volentix Plans to Compete with Centralized Exchanges
+> Nov 26, 2018
+![](https://miro.medium.com/max/1000/1*l6UaetYiaux--NxtG8jd-Q.png)
+November 10, 2018, The VOLENTIX DAE (digital assets ecosystem) announces its native multi-currency peer-to-peer wallet, VERTO, is available for immediate download. Constructed on customized EOS.io technology, VERTO is designed to facilitate personal custody and local management of private and public keys for use in peer-to-peer transactions, with the goal of eliminating risks of devastating losses of stake associated with traumatic failures of central operators.
+The VERTO wallet integrates three other core applications to support VTX, the native digital asset of the Volentix DAE. VENUE is a dynamic community platform that recruits and aligns members of the Volentix community. VESPUCCI is in development as an analytics engine accessible via a user-friendly interface with real-time and historical market data, including digital assets ratings and sentiment analyses. …
