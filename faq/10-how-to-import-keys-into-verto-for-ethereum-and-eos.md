@@ -1,4 +1,30 @@
 # How to import keys into Verto (for Ethereum , and Eos)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget urna semper, ultrices felis quis, dapibus lacus. Phasellus non massa non augue vehicula malesuada quis id ante.   
-Donec ex nunc, fermentum eu tincidunt nec, sodales nec nisl.   
-Cras sagittis, enim vel egestas facilisis, nisi sapien mattis risus, eget interdum elit diam vulputate diam. Donec accumsan urna eget metus sollicitudin, a congue mauris auctor. Nullam vitae posuere diam, at dictum metus. Praesent volutpat viverra augue id consectetur. Quisque at tempor nulla. Sed imperdiet ex elit, ut vestibulum lacus tincidunt quis. Etiam tempor eleifend pretium.    Vestibulum bibendum dolor sed diam efficitur cursus eget ut libero. Mauris vehicula tellus vel orci aliquet finibus. Morbi pretium ante et tellus luctus tristique. Praesent venenatis ut ipsum ut tempus.
+Upon setting up your Verto wallet, you will notice multiple currencies in your main portfolio.   
+*EOS   
+*BTC   
+*ETH   
+*BNB   
+*DASH   
+*LTC   
+*XTZ   
+ 
+You can create your EOS account from inside Verto by following the below steps:   
+*Select your EOS HD from the Main Portfolio    
+     
+![](https://raw.githubusercontent.com/Volentix/blog/master/faq/assets/associate-eos-account-1.png)   
+     
+*Press Associate with EOS    
+     
+![](https://raw.githubusercontent.com/Volentix/blog/master/faq/assets/associate-eos-account-2.png)   
+     
+*Select an account name (Choose a 12 letter and/or (1-5)EOS account name)    
+     
+![](https://raw.githubusercontent.com/Volentix/blog/master/faq/assets/associate-eos-account-3.png)   
+     
+*A Public Key associated to EOS account name you created will appear. Press Next    
+
+![](https://raw.githubusercontent.com/Volentix/blog/master/faq/assets/associate-eos-account-4.png)   
+     
+*Send a minimum of 0.35 EOS to EOS account name singupeoseos and you account will be ready to use    
+
+![](https://raw.githubusercontent.com/Volentix/blog/master/faq/assets/associate-eos-account-5.png)   

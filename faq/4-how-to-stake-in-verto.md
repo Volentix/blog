@@ -1,4 +1,13 @@
 # How to stake in Verto
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget urna semper, ultrices felis quis, dapibus lacus. Phasellus non massa non augue vehicula malesuada quis id ante.   
-Donec ex nunc, fermentum eu tincidunt nec, sodales nec nisl.   
-Cras sagittis, enim vel egestas facilisis, nisi sapien mattis risus, eget interdum elit diam vulputate diam. Donec accumsan urna eget metus sollicitudin, a congue mauris auctor. Nullam vitae posuere diam, at dictum metus. Praesent volutpat viverra augue id consectetur. Quisque at tempor nulla. Sed imperdiet ex elit, ut vestibulum lacus tincidunt quis. Etiam tempor eleifend pretium.    Vestibulum bibendum dolor sed diam efficitur cursus eget ut libero. Mauris vehicula tellus vel orci aliquet finibus. Morbi pretium ante et tellus luctus tristique. Praesent venenatis ut ipsum ut tempus.
+You can stake your VTX in Verto in a matter of seconds by following the simplified steps below:   
+*Chose the VTX account you want to stake from and press the Staking button   
+     
+![](https://raw.githubusercontent.com/Volentix/blog/master/faq/assets/staking-1.png)
+    
+*The account you want to Stake from is selected automatically. You can always select a different account by pressing the dropdown button   
+*Select the amount and duration of your Stake. You can either input your selections manually or toggle through your selections (a minimum of 10,000 VTX is required to be able to Stake)   
+     
+![](https://raw.githubusercontent.com/Volentix/blog/master/faq/assets/staking-2.png)
+    
+
+Press Next to Sign and Submit the transaction. The estimated staked reward will also be displayed

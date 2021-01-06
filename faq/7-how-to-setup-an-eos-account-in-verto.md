@@ -1,4 +1,13 @@
 # How to setup an Eos account in Verto
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget urna semper, ultrices felis quis, dapibus lacus. Phasellus non massa non augue vehicula malesuada quis id ante.   
-Donec ex nunc, fermentum eu tincidunt nec, sodales nec nisl.   
-Cras sagittis, enim vel egestas facilisis, nisi sapien mattis risus, eget interdum elit diam vulputate diam. Donec accumsan urna eget metus sollicitudin, a congue mauris auctor. Nullam vitae posuere diam, at dictum metus. Praesent volutpat viverra augue id consectetur. Quisque at tempor nulla. Sed imperdiet ex elit, ut vestibulum lacus tincidunt quis. Etiam tempor eleifend pretium.    Vestibulum bibendum dolor sed diam efficitur cursus eget ut libero. Mauris vehicula tellus vel orci aliquet finibus. Morbi pretium ante et tellus luctus tristique. Praesent venenatis ut ipsum ut tempus.
+You can import any existing EOS account to Verto with the following steps:    
+*Press on the profile section in the wallet and select Add EOS account
+     
+![](https://raw.githubusercontent.com/Volentix/blog/master/faq/assets/add-eth-&-eos-account.png)   
+     
+*Enter your EOS account private key   
+
+![](https://raw.githubusercontent.com/Volentix/blog/master/faq/assets/add-eos-private-key.png)   
+     
+*After you enter the correct private key your EOS account name will appear in the drop down menu   
+
+![](https://raw.githubusercontent.com/Volentix/blog/master/faq/assets/add-eos-private-key-2.png)   

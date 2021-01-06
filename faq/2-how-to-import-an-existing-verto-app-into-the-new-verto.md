@@ -1,4 +1,14 @@
 # How to import an existing Verto app into the new Verto
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget urna semper, ultrices felis quis, dapibus lacus. Phasellus non massa non augue vehicula malesuada quis id ante.   
-Donec ex nunc, fermentum eu tincidunt nec, sodales nec nisl.   
-Cras sagittis, enim vel egestas facilisis, nisi sapien mattis risus, eget interdum elit diam vulputate diam. Donec accumsan urna eget metus sollicitudin, a congue mauris auctor. Nullam vitae posuere diam, at dictum metus. Praesent volutpat viverra augue id consectetur. Quisque at tempor nulla. Sed imperdiet ex elit, ut vestibulum lacus tincidunt quis. Etiam tempor eleifend pretium.    Vestibulum bibendum dolor sed diam efficitur cursus eget ut libero. Mauris vehicula tellus vel orci aliquet finibus. Morbi pretium ante et tellus luctus tristique. Praesent venenatis ut ipsum ut tempus.
+Log in to your Verto app.    
+Backup your config file in the Settings section of the app.
+     
+![](https://raw.githubusercontent.com/Volentix/blog/master/faq/assets/backup-config.png)   
+     
+Save the config file on your local machine
+Visit verto.volentix.io and opt to Restore your wallet
+    
+![](https://raw.githubusercontent.com/Volentix/blog/master/faq/assets/restore-1.png)   
+    
+Then select the saved config file and follow the instructions thereafter.   
+    
+![](https://raw.githubusercontent.com/Volentix/blog/master/faq/assets/restore-2.png)   
