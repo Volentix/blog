@@ -1,4 +1,4 @@
-# How to import keys into Verto (for Ethereum , and Eos)
+# How to import your keys (Ethereum and Eos)
 Upon setting up your Verto wallet, you will notice multiple currencies in your main portfolio.   
 *EOS   
 *BTC   
