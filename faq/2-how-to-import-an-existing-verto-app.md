@@ -1,4 +1,4 @@
-# How to import an existing Verto app into the new Verto
+# How to import an existing Verto app  
 Log in to your Verto app.    
 Backup your config file in the Settings section of the app.
      
